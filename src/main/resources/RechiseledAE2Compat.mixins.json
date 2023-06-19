@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.red.rechiseledae2compat.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "rechiseledae2compat.refmap.json",
+  "client": [
+    "MixinRechiseledModelData_SideData"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
